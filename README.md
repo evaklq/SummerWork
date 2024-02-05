@@ -18,6 +18,17 @@ Summer practice app with teammate's works
 Также в приложении реализованы несколько страниц, посвящённых: 1) водному балансу; 2) полезным рецептам 3) экрану профиля.
 Я не участвовала в их реализации, за это отвечали мои сокомандники.
 
+Скрины приложения:
+
+![firstPage](https://github.com/evaklq/SummerWork/assets/125543042/52fe2ecd-e096-4bb9-ac36-65ec56b8f87e)
+![diary](https://github.com/evaklq/SummerWork/assets/125543042/9319184f-cfe4-4637-9461-5a56119dc8a0)
+![amountOfCalories](https://github.com/evaklq/SummerWork/assets/125543042/ac219717-d486-46e4-b815-208c4aef61ac)
+![products](https://github.com/evaklq/SummerWork/assets/125543042/97ae6c35-eb04-489a-af89-3795ac885610)
+![productDescription](https://github.com/evaklq/SummerWork/assets/125543042/f3800cef-ddce-4c37-b016-be97574851dc)
+![addPersonalProduct](https://github.com/evaklq/SummerWork/assets/125543042/c652121e-ccae-4687-9711-9aeac8338ba3)
+![water](https://github.com/evaklq/SummerWork/assets/125543042/6b360432-cc9b-4f1a-ba65-b59fc86d2ca8)
+![receipes](https://github.com/evaklq/SummerWork/assets/125543042/f0397f7c-df31-4314-a779-965e4fc68ff1)
+![profile](https://github.com/evaklq/SummerWork/assets/125543042/bacfb7ce-144b-4ea6-9987-c325b69972ee)
 
 
 
